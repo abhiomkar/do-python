@@ -1,3 +1,8 @@
+#Author: Abhinay Omkar
+#Date: 13th Feb 2010
+#Program: spiral-mat.py - Number Matrix in Spiral way
+#
+
 # for N in (3,5,7):
 # 	for i in range(N):
 			# 		for j in range(N	):
